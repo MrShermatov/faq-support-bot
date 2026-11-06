@@ -1,8 +1,8 @@
-# Регламент магазина
+# Do'kon reglamenti
 
-1. Товар: наушники X1, в наличии, цена 2 490 ₽.
-2. Доставка: курьер на следующий день, слот с 18:00 до 21:00.
-3. Возврат: в течение 14 дней, деньги возвращаются на ту же карту, поступают за 3 рабочих дня.
-4. Вскрытый товар без брака: тоже можно вернуть в течение 14 дней.
-5. Брак: принимаем товар на экспертизу, деньги сразу не обещаем.
-6. Скидок нет ни при каких условиях.
+1. Mahsulot: X1 quloqchinlari, omborda mavjud, narxi 2 490 ₽.
+2. Yetkazib berish: kuryer orqali ertasi kuni, soat 18:00 dan 21:00 gacha bo'lgan vaqt oralig'ida.
+3. Qaytarish: 14 kun ichida, pul to'langan o'sha kartaga qaytariladi, 3 ish kuni ichida tushadi.
+4. Ochilgan nuqsonsiz (brak bo'lmagan) mahsulot: uni ham 14 kun ichida qaytarish mumkin.
+5. Brak (nuqsonli) mahsulot: mahsulotni ekspertizaga qabul qilamiz, pulni darhol qaytarishni va'da qilmaymiz.
+6. Hech qanday sharoitda chegirmalar berilmaydi.
